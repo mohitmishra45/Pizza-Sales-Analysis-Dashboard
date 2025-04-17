@@ -127,7 +127,7 @@ This project successfully highlights the strengths and weaknesses of the pizza o
 
 ## 🔗 GitHub Repository
 
-> *(Paste your GitHub link here once uploaded)*
+> https://github.com/mohitmishra45/Pizza-Sales-Analysis-Dashboard.git
 
 ---
 
